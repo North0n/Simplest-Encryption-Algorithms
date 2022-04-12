@@ -1,6 +1,14 @@
-<h1> Simplest Encryption Algrorithms<h1>
+<h1> Простейшие алгоритмы шифрования <h1>
 <ul>
-<li> Railway Fence Algorithms </li>
-<li> Rotating Matrix Algorithm </li>
-<li> Vigenere Algorithm with progressive key </li>
+<li> Алгоритм железнодорожной изгороди </li>
+<li> Алгоритм поворачивающейся решётки </li>
+<li> Алгоритм Виженера с прогрессивным ключом </li>
 </ul>
+
+Программа позволяет шифровать текстовые файлы с помощью представленных выше алгоритмов. Имеется возможность редактирования открытого файла и сохранения зашифрованного текста.
+Проект написан на C++, с использованием Qt. Для создания GUI использовался Qt Widgets.
+  
+  <h2> Пример 1</h2>
+  <img src="examples/Example 1.png">
+  <h2> Пример 2</h2>
+  <img src="examples/Example 2.png">
